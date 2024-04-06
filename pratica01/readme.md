@@ -1,6 +1,6 @@
 # Prática 01 - Portas Lógicas e FFs
 
-## FPGA utilizada na cadeira: 
+## FPGA utilizada na prática: 
 [![Zybo Z7](https://img.shields.io/badge/Zybo_Z7-00FF00?style=for-the-badge&logo=xilinx&logoColor=white)](https://digilent.com/reference/programmable-logic/zybo-z7/start)
 
 ## Considerações 📝
