@@ -6,8 +6,12 @@
 ## Considerações 📝
 
 - O projeto consiste em vários códigos VHDLs relacionados à implementação de diversas portas lógicas e Flip-Flops.
+  
 - O TestBench está adaptado para que a simulação seja feita na FPGA, nesse caso, as portas AND e OR e o HalfAdder.
+  
 - Adaptações podem ser feitas no TestBench e no .xdc para rodar outras portas lógicas na FPGA sem problemas.
+  
 - Por o TestBench na pasta de sim_,o xdc em constrs e o resto na pasta de designs.
+  
 - Faça a síntese em um ambiente de cross-compilação e gere o binário, por fim, mande para a placa e execute.
 
