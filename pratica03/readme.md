@@ -1,6 +1,6 @@
 # Prática 03 - FSM Mealy 🖥️
 
-## FPGA não foi utilizada na pŕatica ❎
+## FPGA não foi utilizada na prática ❎
 
 ## Considerações 📝
 
