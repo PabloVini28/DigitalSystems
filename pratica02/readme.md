@@ -1,6 +1,6 @@
 # Prática 02 - FSM Moore 🖥️
 
-## FPGA não foi utilizada na pŕatica ❎
+## FPGA não foi utilizada na prática ❎
 
 ## Considerações 📝
 
