@@ -6,6 +6,8 @@
 
 - O projeto consiste na implementação da máquina de estados finitos Moore Y2Y1.
   
+- Resolução das questões 1 e 2 do PDF.
+  
 - O TestBench está adaptado para que a simulação seja feita no próprio ambiente.
   
 - Os estímulos presentes no TestBench podem ser modificados sem problemas.
