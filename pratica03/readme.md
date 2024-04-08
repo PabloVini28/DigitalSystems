@@ -1,4 +1,4 @@
-# Prática 03 - FSM Mealy 🖥️
+# Practice 03 - FSM Mealy 🖥️
 
 ## FPGA was not used in the practice ❎
 
