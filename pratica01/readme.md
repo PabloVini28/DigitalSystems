@@ -1,17 +1,16 @@
-# Prática 01 - Portas Lógicas e FFs
+# Practice 01 - Logic Gates and Flip-Flops
 
-## FPGA utilizada na prática: 
-[![Zybo Z7](https://img.shields.io/badge/Zybo_Z7-00FF00?style=for-the-badge&logo=xilinx&logoColor=white)](https://digilent.com/reference/programmable-logic/zybo-z7/start)
+## FPGA used in the practice: 
+[![Zybo Z7](https://img.shields.io/badge/Zybo_Z7-006400?style=for-the-badge&logo=xilinx&logoColor=white)](https://digilent.com/reference/programmable-logic/zybo-z7/start)
 
-## Considerações 📝
+## Remarks 📝
 
-- O projeto consiste em vários códigos VHDLs relacionados à implementação de diversas portas lógicas e Flip-Flops.
+- The project consists of several VHDL codes related to the implementation of various logic gates and Flip-Flops.
   
-- O TestBench está adaptado para que a simulação seja feita na FPGA, nesse caso, as portas AND e OR e o HalfAdder.
+- The TestBench is adapted so that the simulation can be performed on the FPGA, in this case, the AND and OR gates and the HalfAdder.
   
-- Adaptações podem ser feitas no TestBench e no .xdc para rodar outras portas lógicas na FPGA sem problemas.
+- Adaptations can be made to the TestBench and the .xdc file to run other logic gates on the FPGA without issues.
   
-- Por o TestBench na pasta de sim_,o xdc em constrs e o resto na pasta de designs.
+- Place the TestBench in the sim_ folder, the .xdc file in the constrs folder, and the rest in the designs folder.
   
-- Faça a síntese em um ambiente de cross-compilação e gere o binário, por fim, mande para a placa e execute.
-
+- Synthesize in a cross-compilation environment and generate the binary, then send it to the board and execute.
