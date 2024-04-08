@@ -1,15 +1,16 @@
-# Prática 02 - FSM Moore 🖥️
+# Practice 02 - FSM Moore 🖥️
 
-## FPGA não foi utilizada na prática ❎
+## FPGA was not used in the practice ❎
 
-## Considerações 📝
+## Remarks 📝
 
-- O projeto consiste na implementação da máquina de estados finitos Moore.
+- The project consists of implementing the Moore Finite State Machine.
   
-- O TestBench está adaptado para que a simulação seja feita no próprio ambiente.
+- The TestBench is adapted for simulation within the environment itself.
   
-- Os estímulos presentes no TestBench podem ser modificados sem problemas.
+- The stimuli present in the TestBench can be modified without issues.
   
-- Por o TestBench na pasta de sim_ e a fsm_moore na pasta de designs.
+- Place the TestBench in the sim_ folder and the fsm_moore in the designs folder.
   
-- Clique em rodar simulação e visualize o gráfico.
+- Click on run simulation and visualize the graph.
+
