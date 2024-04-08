@@ -1,17 +1,18 @@
-# Prática 04 - FSM Moore Y2Y1 🖥️
+# Practice 04 - FSM Moore Y2Y1 🖥️
 
-## FPGA não foi utilizada na pŕatica ❎
+## FPGA was not used in the practice ❎
 
-## Considerações 📝
+## Remarks 📝
 
-- O projeto consiste na implementação da máquina de estados finitos Moore Y2Y1.
+- The project consists of implementing the Moore Finite State Machine Y2Y1.
   
-- Resolução das questões 1 e 2 do PDF.
+- Resolution of questions 1 and 2 from the PDF.
   
-- O TestBench está adaptado para que a simulação seja feita no próprio ambiente.
+- The TestBench is adapted for simulation within the environment itself.
   
-- Os estímulos presentes no TestBench podem ser modificados sem problemas.
+- The stimuli present in the TestBench can be modified without issues.
   
-- Por o TestBench na pasta de sim_ e a fsm_moore_y2y1 na pasta de designs.
+- Place the TestBench in the sim_ folder and the fsm_moore_y2y1 in the designs folder.
   
-- Clique em rodar simulação e visualize o gráfico.
+- Click on run simulation and visualize the graph.
+
